@@ -871,7 +871,7 @@ img {
 .footer__links {
     display: flex;
     flex-direction: column;
-    row-gap: 1.5rem;
+    row-gap: 2rem;
 }
 
 .footer__link:hover {
