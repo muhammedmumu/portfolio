@@ -1,24 +1,5 @@
 // === Fade-in on scroll for skills and all main elements (for browsers without ScrollReveal or as fallback) ===
-document.addEventListener('DOMContentLoaded', function() {
-  function revealOnScroll() {
-    var fadeEls = document.querySelectorAll('.fade-in');
-    var windowHeight = window.innerHeight;
-    fadeEls.forEach(function(el) {
-      var rect = el.getBoundingClientRect();
-      if (rect.top < windowHeight - 60) {
-        el.classList.add('visible');
-      } else {
-        el.classList.remove('visible');
-      }
-    });
-  }
-  window.addEventListener('scroll', revealOnScroll);
-  revealOnScroll();
-
-  // Add fade-in class to skills bars and other main elements
-  document.querySelectorAll('.skills .bar').forEach(function(el) { el.classList.add('fade-in'); });
-  document.querySelectorAll('.heading, .box-container, .row, .content').forEach(function(el) { el.classList.add('fade-in'); });
-});
+// Remove custom fade-in script to avoid hiding elements on load
 $(document).ready(function () {
 
     $('#menu').click(function () {
