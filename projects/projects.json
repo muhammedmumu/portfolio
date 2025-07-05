@@ -2,7 +2,7 @@
   {
     "name": "Portfolio Website",
     "desc": "Personal portfolio website. Built with HTML, CSS, JavaScript. Showcases my work, skills, and contact info.",
-    "image": "Portfolio.png",
+    "image": "Portfolio",
     "category": "web",
     "links": {
       "view": "./assets/images/projects/Portfolio.png",
@@ -12,7 +12,7 @@
   {
     "name": "E-commerce Website",
     "desc": "A modern e-commerce web app with product listings, cart, and checkout features.",
-    "image": "E-commerce Website.png",
+    "image": "E-commerce Website",
     "category": "web",
     "links": {
       "view": "./assets/images/projects/E-commerce Website.png",
@@ -22,7 +22,7 @@
   {
     "name": "Netflix Clone",
     "desc": "A Netflix-inspired video streaming UI clone using React.js.",
-    "image": "Netflix-Clone.png",
+    "image": "Netflix-Clone",
     "category": "web",
     "links": {
       "view": "./assets/images/projects/Netflix-Clone.png",
@@ -32,17 +32,17 @@
   {
     "name": "Language Translator",
     "desc": "A web app for translating text between languages using a public API.",
-    "image": "Language Translator.png",
+    "image": "Language Translator",
     "category": "web",
     "links": {
-      "view": "./assets/images/projects/Language Translator.png",
+      "view": "#",
       "code": "https://github.com/muhammedmumu/Language-Translator"
     }
   },
   {
     "name": "Enrollment Form",
     "desc": "A responsive enrollment form for student registration.",
-    "image": "Enrollment-Form.png",
+    "image": "Enrollment-Form",
     "category": "web",
     "links": {
       "view": "./assets/images/projects/Enrollment-Form.png",
