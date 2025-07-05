@@ -110,9 +110,11 @@ function showProjects(projects) {
     let projectsContainer = document.querySelector("#work .box-container");
     let projectHTML = "";
     projects.slice(0, 10).filter(project => project.category != "android").forEach(project => {
+        // If the image field does not include an extension, add .png by default
+        let imagePath = project.image.match(/\.(png|jpg|jpeg|gif|webp)$/i) ? project.image : project.image + '.png';
         projectHTML += `
         <div class="box tilt">
-      <img draggable="false" src="/assets/images/projects/${project.image}" alt="project" />
+      <img draggable="false" src="/assets/images/projects/${imagePath}" alt="project" />
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
