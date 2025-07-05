@@ -480,7 +480,7 @@ header .navbar ul li a:hover {
   gap: 1.5rem;
   font-family: "Nunito";
   font-weight: 600;
-  overflow: scroll;
+  overflow: hidden;
 }
 
 .about .row .content .box-container .box p {
