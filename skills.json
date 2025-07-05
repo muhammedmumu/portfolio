@@ -1,12 +1,12 @@
 [
-  { "name": "HTML", "icon": "./assets/images/skills/Html.jpeg" },
-  { "name": "Css", "icon": "./assets/images/skills/Css.jpeg" },
-  { "name": "Java Script", "icon": "./assets/images/skills/Java script.jpeg" },
-  { "name": "React", "icon": "./assets/images/skills/React Js Logo Sticker.jpg" },
-  { "name": "Mongodb", "icon": "./assets/images/skills/Mongodb.jpeg" },
-  { "name": "Node.js", "icon": "./assets/images/skills/Nodejs.jpeg" },
-  { "name": "Angular", "icon": "./assets/images/skills/Angular.jpeg" },
-  { "name": "Python", "icon": "./assets/images/skills/Phython.jpeg" },
-  { "name": "Sql", "icon": "./assets/images/skills/Sql.jpeg" },
-  { "name": "WordPress", "icon": "./assets/images/skills/Warldpress.jpeg" }
+  { "name": "HTML", "icon": "./assets/images/skills/html.jpeg" },
+  { "name": "CSS", "icon": "./assets/images/skills/css.jpeg" },
+  { "name": "JavaScript", "icon": "./assets/images/skills/javascript.jpeg" },
+  { "name": "React", "icon": "./assets/images/skills/reactjs.jpg" },
+  { "name": "MongoDB", "icon": "./assets/images/skills/mongodb.jpeg" },
+  { "name": "Node.js", "icon": "./assets/images/skills/nodejs.jpeg" },
+  { "name": "Angular", "icon": "./assets/images/skills/angular.jpeg" },
+  { "name": "Python", "icon": "./assets/images/skills/python.jpeg" },
+  { "name": "SQL", "icon": "./assets/images/skills/sql.jpeg" },
+  { "name": "WordPress", "icon": "./assets/images/skills/wordpress.jpeg" }
 ]
