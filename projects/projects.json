@@ -5,7 +5,7 @@
     "image": "Portfolio.png",
     "category": "web",
     "links": {
-      "view": "#",
+      "view": "./assets/images/projects/Portfolio.png",
       "code": "https://github.com/muhammedmumu/Portfolio-Website"
     }
   },
@@ -15,7 +15,7 @@
     "image": "E-commerce Website.png",
     "category": "web",
     "links": {
-      "view": "#",
+      "view": "./assets/images/projects/E-commerce Website.png",
       "code": "https://github.com/muhammedmumu/E-commerce-Website"
     }
   },
@@ -25,7 +25,7 @@
     "image": "Netflix-Clone.png",
     "category": "web",
     "links": {
-      "view": "#",
+      "view": "./assets/images/projects/Netflix-Clone.png",
       "code": "https://github.com/muhammedmumu/Netflix-Clone"
     }
   },
@@ -35,7 +35,7 @@
     "image": "Language Translator.png",
     "category": "web",
     "links": {
-      "view": "#",
+      "view": "./assets/images/projects/Language Translator.png",
       "code": "https://github.com/muhammedmumu/Language-Translator"
     }
   },
@@ -45,7 +45,7 @@
     "image": "Enrollment-Form.png",
     "category": "web",
     "links": {
-      "view": "#",
+      "view": "./assets/images/projects/Enrollment-Form.png",
       "code": "https://github.com/muhammedmumu/Enrollment-Form"
     }
   }
