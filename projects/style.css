@@ -195,18 +195,20 @@ header .navbar ul li a:hover{
   background-color: #fff;
   color: #000;
 }
+/* Hide overflow for box-container and its children */
 .work .box-container{
   display: flex;
   flex-wrap: wrap;
   gap:1.5rem;
   margin: 2rem;
+  overflow: hidden;
 }
 .work .box-container .box{
   flex:1 1 30rem;
   border-radius: .5rem;
   box-shadow: 0 .7rem 1rem rgba(0,0,0,.3);
   position: relative;
-  overflow:hidden;
+  overflow: hidden;
   height:30rem;
   background: #fff;
   border: none;
