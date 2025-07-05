@@ -243,6 +243,9 @@ header .navbar ul li a:hover{
 .work .box-container .box:hover .content{
   top: 25%;
 }
+.box-container{
+  overflow: hidden;
+}
 .work .desc {
   margin: 2rem;
   display: flex;
