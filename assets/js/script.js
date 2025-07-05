@@ -213,8 +213,9 @@ const srtop = ScrollReveal({
 });
 
 /* SCROLL HOME */
+
 srtop.reveal('.home .content h3', { delay: 200 });
-srtop.reveal('.home .content p', { delay: 200 });
+// Do NOT fade out the home .content p on scroll, so do not reveal it with ScrollReveal
 srtop.reveal('.home .content .btn', { delay: 200 });
 
 srtop.reveal('.home .image', { delay: 400 });
