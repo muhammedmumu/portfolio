@@ -45,7 +45,7 @@
     "image": "Enrollment-Form",
     "category": "web",
     "links": {
-      "view": "https://enrollment-form-mu.vercel.app/",
+      "view": "#",
       "code": "https://github.com/muhammedmumu/Enrollment-Form"
     }
   }
